@@ -25,3 +25,4 @@ index.html
 .idea/
 
 package-lock.json
+yarn.lock
